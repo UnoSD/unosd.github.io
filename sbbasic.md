@@ -35,6 +35,8 @@ Templates
 Use cases
 ---------
 
+![](Service Bus.png)
+
 Performances
 ------------
 
@@ -49,3 +51,11 @@ Logging
 
 Authentication, RBAC and identity
 ---------------------------------
+
+RSS feed of Service Bus
+https://azurecomcdn.azureedge.net/en-gb/blog/tag/service-bus/feed/
+
+Date of last page update
+12/10/2019
+
+
