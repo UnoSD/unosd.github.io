@@ -12,4 +12,4 @@
 
 [gimmick:theme (inverse: false)](readable)
 
-<link rel="stylesheet" type="text/css" href="/bootstrap.min.css"></style>
+[gimmick:ThemeChooser](Change theme)
