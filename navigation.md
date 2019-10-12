@@ -1,4 +1,4 @@
-[gimmick:theme](solar)
+[gimmick:theme](readable)
 
 # Azure wiki
 [Home](index.md)
