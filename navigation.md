@@ -10,6 +10,4 @@
 
 [About](index.md)
 
-[gimmick:theme (inverse: false)](readable)
-
-[gimmick:ThemeChooser](Change theme)
+<link rel="stylesheet" type="text/css" href="/bootstrap.min.css"></style>
