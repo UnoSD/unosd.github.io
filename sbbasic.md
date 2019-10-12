@@ -34,3 +34,18 @@ Templates
 
 Use cases
 ---------
+
+Performances
+------------
+
+Scaling
+-------
+
+  * Out
+  * Up
+
+Logging
+-------
+
+Authentication, RBAC and identity
+---------------------------------
