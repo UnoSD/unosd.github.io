@@ -7,6 +7,7 @@
   * [Summary](messaging.md)
   - - - -
   * # Service Bus
+  * [Basic](sbbasic.md)
   * [Standard](404.md)
   * [Premium](404.md)
   - - - -
@@ -22,6 +23,16 @@
   - - - -
   * # Cosmos DB
   * [General](404.md)
+
+[Deployment]()
+
+ * [Summary](404.md)
+  - - - -
+  * # ARM
+  * [Summary](404.md)
+  - - - -
+  * # Terraform
+  * [Summary](404.md)
 
 [About](about.md)
 
