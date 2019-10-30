@@ -24,6 +24,19 @@
   * # Cosmos DB
   * [General](404.md)
 
+[Data processing]()
+
+  * [Summary](404.md)
+  - - - -
+  * # Azure Data Factory
+  * [General](adf.md)
+  - - - -
+  * # Azure Stream Analytics
+  * [General](404.md)
+  - - - -
+  * # Azure Analysis Services
+  * [General](404.md)
+
 [Deployment]()
 
  * [Summary](404.md)
