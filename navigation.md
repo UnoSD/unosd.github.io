@@ -37,6 +37,13 @@
   * # Azure Analysis Services
   * [General](404.md)
 
+[Identity]()
+
+  * [Summary](404.md)
+  - - - -
+  * # Azure Active Directory B2B
+  * [General](b2b.md)
+
 [Deployment]()
 
  * [Summary](404.md)
