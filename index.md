@@ -16,4 +16,4 @@ Other content
 
 Pizza making tools
 
-  * [UnoPizza](https://wiki.github.io/pizza)
+  * [UnoPizza](https://unosd.github.io/pizza)
