@@ -1,18 +1,9 @@
-Azure wiki
+SD wiki
 ==========
 
-About website
+Tools
 -------------
 
-Concise documentation for Azure services
-
-Built using
-
-  * [MDwiki](http://dynalon.github.io)
-  
-  
-Other content
--------------
 SlaCalculator
 
   * [SlaCalculator](https://unosd.github.io/slacalculator)
@@ -28,3 +19,18 @@ Pizza making tools
 Buy to let mortgage sustainability calculator
 
   * [Mortgage](https://unosd.github.io/mortgage)
+
+Contacts
+-------------
+
+LinkedIn
+
+  * [Stefano d'Antonio](https://www.linkedin.com/in/stefanodantonio/)
+
+Blog and posts
+
+  * [Blog](https://dev.to/unosd)
+
+  * [Business continuity and disaster recovery blueprints for enterprises](https://dev.to/unosd/business-continuity-and-disaster-recovery-blueprints-for-enterprises-4a0o)
+  
+  * [Infrastructure as code in 2021](https://dev.to/unosd/infrastructure-as-code-in-2021-3l40)
